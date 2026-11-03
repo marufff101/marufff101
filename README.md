@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, It's Maruf Ahmed Siam
 🏆 5th Place, Intra University Programming Contest 2025<br>💻 Interested in Web Development, Software Engineering, AI Integration, and Automation.<br>🤖 Exploring how AI can transform ideas into practical, intelligent applications.<br>🌱 Always learning, building, experimenting, and improving.<br><br>Code • Create • Automate • Innovate 
 
 
