@@ -2,6 +2,16 @@
 🏆 5th Place, Intra University Programming Contest 2025<br>💻 Interested in Web Development, Software Engineering, AI Integration, and Automation.<br>🤖 Exploring how AI can transform ideas into practical, intelligent applications.<br>🌱 Always learning, building, experimenting, and improving.<br><br>Code • Create • Automate • Innovate 
 
 
+</td>
+<td width="40%" align="center" valign="center">
+
+<img src="./assets/coding.gif" width="320" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maruf.siam.725774) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_ar_uff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-ahmed-siam-61a4b9373/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marufff08697@gmail.com) 
 
