@@ -5,6 +5,10 @@
 <td width="60%" valign="middle">
 
 🏆 5th Place, Intra University Programming Contest 2026
+<br><br>
+🏅 Events & Participation<br>
+ 1. Intra University Programming Contest 2026 <br>
+ 2. Wordpress Campus Connect Event 2026
 
 💻 Interested in Web Development, Software Engineering, AI Integration, and Automation.
 
