@@ -4,8 +4,6 @@
 <tr>
 <td width="60%" valign="middle">
 
-# 💫 Hi, It's Maruf Ahmed Siam
-
 🏆 5th Place, Intra University Programming Contest 2026
 
 💻 Interested in Web Development, Software Engineering, AI Integration, and Automation.
